@@ -1,0 +1,6 @@
+session_info==1.0.0
+IPython==7.8.0
+jupyter_client==5.3.3
+jupyter_core==4.5.0
+jupyterlab==1.1.4
+notebook==6.0.1
